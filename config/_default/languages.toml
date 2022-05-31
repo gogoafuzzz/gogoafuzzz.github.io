@@ -5,3 +5,9 @@
 #languagedirection = "ltr"
 #title = "Example Site"
 #weight = 1
+
+[zh-tw]
+languageName = "繁體中文"
+languagedirection = "ltr"
+title = "福默丁格的開發筆記"
+weight = 1
